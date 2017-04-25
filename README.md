@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-square.svg?token=4bxTspp6bziFqEzUesyb&branch=master)](https://travis-ci.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-square)
+
 # PRÁCTICA 8: Creación de paquetes NPM.
 
 * Uno de los objetivos de esta práctica es aprender a crear packages NodeJS y publicarlos en npm. El paquete se construye a partir de el código que se desarrolló en la práctica evaluar strategy pattern.
