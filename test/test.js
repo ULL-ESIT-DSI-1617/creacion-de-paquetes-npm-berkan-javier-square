@@ -8,7 +8,7 @@ describe("classSquare", function() {
         square.should.exist;
     });
     it("square should be a Square", function() {
-      square.should.be.an.instanceof(Shape);
+      square.should.be.an.instanceof(Square);
     });
     it("square should be 100", function() {
         square.width.should.equal(100);

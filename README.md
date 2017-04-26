@@ -21,6 +21,9 @@ Añada pruebas para cada uno de los módulos
 
 * [Enlace descripción de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/content/apuntes/nodejspackages.md)
 * [Enlace repo Square](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-square)
-* [Enlace repo Triangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-triangle)
+* [Enlace repo Rectangle](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-berkan-javier-rectangle)
 * Autores: [Berkan](https://berkanrhdz.github.io) , [Javier](https://javiergonher.github.io/)
 * [Enlace página asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
+* [Enlace modulo Shape]()
+* [Enlace plugin Square]()
+* [Enlace plugin Rectangle]()
