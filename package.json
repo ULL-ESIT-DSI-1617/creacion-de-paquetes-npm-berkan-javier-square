@@ -1,6 +1,6 @@
 {
   "name": "@ull-berkan-javier/ull-shape-square",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin Square",
   "main": "lib/square.js",
   "scripts": {
