@@ -1,10 +1,7 @@
-var Shape = require('../lib/square.js');
+var Square = require('../lib/square.js');
 var should = require('should');
 
-let square = new Square({
-    width: 100,
-    height: 50
-});
+let square = new Square ({width: 100});
 
 describe("classSquare", function() {
     it("Square should exist", function() {
@@ -16,7 +13,7 @@ describe("classSquare", function() {
     it("square should be 100", function() {
         square.width.should.equal(100);
     });
-    it("square should have height", function() {
-        square.should.have.property('height');
+    it("Area should be calculate", function(){
+        square.getArea().should.equal(10000);
     });
 });
